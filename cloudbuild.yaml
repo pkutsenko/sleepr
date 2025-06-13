@@ -69,7 +69,6 @@ steps:
       ]
 options:
   logging: CLOUD_LOGGING_ONLY
-  logs_bucket: REGIONAL_USER_OWNED_BUCKET
 
 
 
